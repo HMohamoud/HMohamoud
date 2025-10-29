@@ -1,6 +1,7 @@
 <h1 align="center">Hamza Mohamoud</h1>
 <p align="center">
-  🚀 DevOps | Cloud Engineering | Infrastructure-as-Code
+  🚀 Software Engineering | Cloud Computing | DevOps & Automation
+
 </p>
 
 ---
