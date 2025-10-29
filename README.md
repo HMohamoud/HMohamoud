@@ -7,9 +7,9 @@
 
 ### 👨‍💻 About Me
 
-I'm a DevOps-focused engineer with a strong interest in scalable infrastructure, cloud automation, and systems reliability.  
-I believe in simplicity, repeatability, and creating systems that just work.  
-My work centers around building clean environments, automating workflows, and continuously improving operations.
+I’m a DevOps-focused engineer with a strong interest in scalable infrastructure, cloud automation, and systems reliability. I believe in simplicity, repeatability, and creating systems that just work. My work centers around building clean, efficient environments, automating workflows, and driving continuous operational improvement.
+
+Currently, I’m pursuing a BSc in Computer Science at City, University of London, where I’m deepening my understanding of software systems, distributed computing, and modern DevOps practices.
 
 ---
 
