@@ -15,21 +15,27 @@ Currently, I’m pursuing a BSc in Computer Science at City, University of Londo
 
 ### 🛠️ Toolset & Focus Areas
 
-- **OS & Scripting:** Linux, Bash
-- **Version Control:** Git, GitHub
-- **Cloud:** AWS (IAM, EC2, S3, VPC – growing expertise)
-- **Automation:** GitHub Actions, Docker (learning phase)
-- **Infra as Code (IaC):** Terraform (next)
+- **OS & Scripting:** Linux (Ubuntu), Bash — automation & environment setup  
+- **Languages:** Python (primary), Java (learning)  
+- **Frameworks:** FastAPI, Streamlit, Hugging Face Transformers  
+- **Version Control:** Git & GitHub (CI/CD, project management)  
+- **Cloud & DevOps:** AWS (IAM, EC2, S3, VPC), GitHub Actions, Docker (learning)  
+- **Infra as Code:** Terraform (next focus area)  
+- **Focus Areas:** Backend Development • Cloud Computing • AI Integration • Linux Automation • DevOps Concepts
+
 
 ---
 
-### 📁 Repositories Worth Visiting
+### 🛠️ Toolset & Focus Areas
 
-> Building in public — projects coming soon:
-
-- `linux-essentials`: foundational Linux scripting & CLI usage  
-- `cloud-playground`: documenting cloud fundamentals hands-on  
-- `devops-lab`: experiments in automation, CI/CD, and cloud provisioning  
+- **OS & Scripting:** Linux (Ubuntu), Bash — automation & environment setup  
+- **Languages:** Python (primary), Java (learning)  
+- **Frameworks:** FastAPI, Streamlit, Hugging Face Transformers  
+- **Version Control:** Git & GitHub (CI/CD, project management)  
+- **Cloud & DevOps:** AWS (IAM, EC2, S3, VPC), GitHub Actions, Docker (learning)  
+- **Infra as Code:** Terraform (next focus area)  
+- **Focus Areas:** Backend Development • Cloud Computing • AI Integration • Linux Automation • DevOps Concepts
+ 
 
 ---
 
